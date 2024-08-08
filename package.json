@@ -1,0 +1,13 @@
+{
+  "name": "promise-state",
+  "version": "0.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "vdeturckheim",
+  "license": "MIT"
+}
